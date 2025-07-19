@@ -3,6 +3,7 @@
 - 🔭 I’m currently learning Web Development 
 - 🌱 I’m interested in Open Source
 - 📫 How to reach me: expert.coder69@gmail.com
+- ⚒  Tech Stack: HTML | CSS | Javascript | Git | Github
 
 <!--
 **HASSANCoder69/HASSANCoder69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
